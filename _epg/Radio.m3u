@@ -1,0 +1,151 @@
+#EXTM3U
+
+
+#EXTINF:-1,####Canada####
+http://
+
+#EXTINF:-1 group-title="RADIO",590 AM The FAN CJCL Toronto sports radio  
+http://tor590.akacast.akamaistream.net/7/850/80874/v1/rogers.akacast.akamaistream.net/tor590
+
+#EXTINF:-1 group-title="RADIO",102.1 The Edge CFNY Toronto
+http://live.leanstream.co/CFNYFM-MP3
+
+#EXTINF:-1 group-title="RADIO",Q107 Classic Rock Toronto
+http://live.leanstream.co/CILQFM
+
+#EXTINF:-1 group-title="RADIO",89.5 CIUT University of Toronto
+http://128.100.197.46/listen.pls
+
+#EXTINF:-1 group-title="RADIO",88 Indie88 Toronto
+http://indie.streamon.fm:8000/indie-48k.aac
+
+#EXTINF:-1 group-title="RADIO",97.7 Hitz FM CHTZ Toronto
+http://5843.live.streamtheworld.com/CHTZFMAAC_SC
+
+#EXTINF:-1 group-title="RADIO",99.9 Virgin Radio CKFM Toronto
+http://ckfm-aac.akacast.akamaistream.net/7/811/102120/v1/astral.akacast.akamaistream.net/ckfm-aac
+
+#EXTINF:-1 group-title="RADIO",103.5 CIDC Toronto
+http://ice8.securenetsystems.net/CIDC
+
+#EXTINF:-1 group-title="RADIO",95.7 FM Rock CFJB Toronto
+http://cfjb.streamon.fm:8000/CFJB-48k.aac
+
+#EXTINF:-1 group-title="RADIO",98.1 CHFI Toronto
+http://tor981.akacast.akamaistream.net/7/550/80872/v1/rogers.akacast.akamaistream.net/tor981
+
+#EXTINF:-1 group-title="RADIO",91 FM Jazz Toronto
+http://streamerepsilon.jazz.fm:8000
+
+#EXTINF:-1 group-title="RADIO",680 News CFTR Toronto
+http://tor680.akacast.akamaistream.net/7/941/86884/v1/rogers.akacast.akamaistream.net/tor680
+
+
+
+#EXTINF:-1,####USA####
+http://
+
+
+#EXTINF:-1 group-title="RADIO",WFMU
+#http://wfmu.org/wfmu.pls
+http://stream0.wfmu.org/freeform-128k
+
+#EXTINF:-1 group-title="RADIO",106.7 FM KROQ  Pasadena CA
+http://provisioning.streamtheworld.com/pls/KROQFM.pls
+
+
+#EXTINF:-1,KROQ 106.7
+
+
+#EXTINF:-1,triple j 105.7
+
+
+#EXTINF:-1,Live 105 105.3
+
+
+#EXTINF:-1,XFM London 104.9
+
+
+#EXTINF:-1,.977 Alternative
+
+
+#EXTINF:-1,KEXP-FM 90.3
+
+
+#EXTINF:-1,The Current 89.3
+
+
+#EXTINF:-1,WITR 89.7
+
+
+#EXTINF:-1,WNRN 91.9
+
+
+#EXTINF:-1,WERS 88.9
+
+
+
+
+#EXTINF:-1,####PODCASTS####
+http://
+
+#EXTINF:-1 group-title="PODCAST",Podcast Rotten Tomatoes
+rss://feeds.feedburner.com/RTPodcast/
+
+#EXTINF:-1 group-title="PODCAST",Podcast SModcast (Kevin Smith)
+rss://feeds.feedburner.com/SModcasts/
+
+#EXTINF:-1 group-title="PODCAST",Podcast HollywoodBabbleOn (Kevin Smith)
+rss://feeds.feedburner.com/HollywoodBabbleOnPod/
+
+#EXTINF:-1 group-title="PODCAST",Podcast FatManOnBatman (Kevin Smith)
+rss://feeds.feedburner.com/FatManOnBatman/
+
+#EXTINF:-1 group-title="PODCAST",Podcast WTF (Marc Maron)
+rss://wtfpod.libsyn.com/rss/
+
+#EXTINF:-1 group-title="PODCAST",Podcast The Dollop with Dave Anthony and Gareth Reynolds
+rss://thedollop.libsyn.com/rss/
+
+#EXTINF:-1 group-title="PODCAST",Podcast The Movie Crypt
+rss://geeknation.com/podcast-feed/the-movie-crypt-with-green-lynch/
+               
+#EXTINF:-1 group-title="PODCAST",Podcast Opie and Jimmy
+rss://opieandanthonypodcast.libsyn.com/rss/
+
+#EXTINF:-1 group-title="PODCAST",Podcast Doug Loves Movies
+rss://feeds.feedburner.com/DougLovesMovies/
+           
+
+
+#EXTINF:-1,####UK####
+http://
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 1
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 2
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 3
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-aac-lc-a/format/pls/vpid/bbc_radio_three.pls
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 4
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 5 live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 6
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 1 Extra
+http://www.bbc.co.uk/radio/listen/live/r1x_aaclca.pls
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 4 Extra
+http://www.bbc.co.uk/radio/listen/live/r4x_aaclca.pls
+
+#EXTINF:-1 group-title="RADIO",BBC - Radio 5 Live sports extra
+http://www.bbc.co.uk/radio/listen/live/r5lsp_aaclca.pls
+
+
