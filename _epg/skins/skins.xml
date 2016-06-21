@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<skinlist>
+<skin name="Default" url="Default.zip" icon="Default.png" fanart="Default_fanart.jpg" description="Default"/>
+<skin name="FTV_Blue" url="FTV_Blue.zip" icon="Default.png" fanart="FTV_Blue_fanart.jpg" description="FTV_Blue"/>
+<skin name="FTV_Dark" url="FTV_Dark.zip" icon="Default.png" fanart="FTV_Dark_fanart.jpg" description="FTV_Dark"/>
+<skin name="FTV_Default" url="FTV_Default.zip" icon="Default.png" fanart="FTV_Default_fanart.jpg" description="FTV_Default"/>
+<skin name="FTV_Eminence" url="FTV_Eminence.zip" icon="Default.png" fanart="FTV_Eminence_fanart.jpg" description="FTV_Eminence"/>
+<skin name="FTV_MOD" url="FTV_MOD.zip" icon="Default.png" fanart="FTV_MOD_fanart.jpg" description="FTV_MOD"/>
+<skin name="FTV_Touch" url="FTV_Touch.zip" icon="Default.png" fanart="FTV_Touch_fanart.jpg" description="FTV_Touch"/>
+</skinlist>
