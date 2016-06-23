@@ -6,7 +6,7 @@
 		<import addon="script.module.simplejson" version="3.3.0"/>
 		<import addon="script.module.requests" version="2.3.0"/>
         <!--<import addon="script.module.elementtree" version="1.2.7"/>--> <!-- ? -->
-        <import addon="script.module.elementtree" version="1.2.7"/>
+        <import addon="script.module.elementtree" version="1.2.8"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
             <provides>executable video</provides>
@@ -15,7 +15,7 @@
     <extension point="xbmc.service" library="service.py" start="login"/>
 	<extension point="xbmc.addon.metadata">
 
-		<summary lang="en">TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG.    Iptvsubs and DexterTV credentials will be automatically added to addons.ini</summary>
+		<summary lang="en">PC ONLY At the moment!!!!!       TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG.    Iptvsubs and DexterTV credentials will be automatically added to addons.ini</summary>
 		<summary lang="en_US">TV Guide allows you to combine some of your favourite live TV plugins for use with a fully working EPG.  Iptvsubs and DexterTV credentials will be automatically added to addons.ini</summary>
 
 		<description lang="en">TV Guide for use with 3rd party channel addons.  This is catered to a North American audience.</description>
@@ -962,15 +962,15 @@
 	</extension>
 </addon>
 
-<addon id="repository.epg.ninja" name="epg.ninja add-ons" version="1.0.0" provider-name="psycon">
+<addon id="repository.iptvsubs" name="IPTVSubs add-ons" version="1.0.0" provider-name="psycon">
 	<extension point="xbmc.addon.repository" name="epg.ninja Add-on Repository">
-		<info compressed="false">http://epg.ninja/repo/addons.xml</info>
-		<checksum>http://epg.ninja/repo/addons.xml.md5</checksum>
-                <datadir zip="true">http://epg.ninja/repo</datadir>
+		<info compressed="false">http://iptvsubs.is/repo/addons.xml</info>
+		<checksum>http://iptvsubs.is/repo/addons.xml.md5</checksum>
+                <datadir zip="true">http://iptvsubs.is/repo</datadir>
                 </extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Install Add-ons from epg.ninja</summary>
-		<description>Download and install add-ons from epg.ninja addon repository.[CR][CR]By using this Repository you will be able to take advantage of our cutting edge features.</description>
+		<summary>Install Add-ons from iptvsubs.is</summary>
+		<description>Download and install add-ons from iptvsubs.is addon repository.[CR][CR]By using this Repository you will be able to take advantage of our cutting edge features.</description>
 		<disclaimer>psycon</disclaimer>
 		<platform>all</platform>
 	</extension>
